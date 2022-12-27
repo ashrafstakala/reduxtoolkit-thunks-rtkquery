@@ -1,5 +1,38 @@
 {
-  "users": [{ "id": 1, "name": "Myra" }],
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Bernard Reichert",
+      "id": 2
+    },
+    {
+      "name": "June Tillman DVM",
+      "id": 3
+    },
+    {
+      "name": "Ramona Barrows",
+      "id": 4
+    },
+    {
+      "name": "Luz MacGyver",
+      "id": 5
+    },
+    {
+      "name": "Amelia Hermann",
+      "id": 6
+    },
+    {
+      "name": "Carole Baumbach",
+      "id": 7
+    },
+    {
+      "name": "Virginia Krajcik",
+      "id": 8
+    }
+  ],
   "albums": [],
   "photos": []
 }
