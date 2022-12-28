@@ -19,7 +19,7 @@ const photosApi = createApi({
           };
         },
       }),
-      adddPhoto: builder.mutation({
+      addPhoto: builder.mutation({
         query: (album) => {
           return {
             method: 'POST',
