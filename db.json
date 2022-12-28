@@ -23,21 +23,6 @@
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "Hiking Trip",
-      "userId": "1"
-    },
-    {
-      "userId": 1,
-      "title": "Refined Concrete Towels",
-      "id": 11
-    },
-    {
-      "userId": 1,
-      "title": "Ergonomic Cotton Chicken",
-      "id": 12
-    },
-    {
       "userId": 1,
       "title": "Small Frozen Shoes",
       "id": 13
