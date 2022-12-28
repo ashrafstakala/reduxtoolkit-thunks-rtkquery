@@ -36,6 +36,31 @@
       "userId": 1,
       "title": "Ergonomic Cotton Chicken",
       "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Small Frozen Shoes",
+      "id": 13
+    },
+    {
+      "userId": 8,
+      "title": "Tasty Soft Towels",
+      "id": 14
+    },
+    {
+      "userId": 8,
+      "title": "Incredible Plastic Bike",
+      "id": 15
+    },
+    {
+      "userId": 8,
+      "title": "Generic Fresh Shoes",
+      "id": 16
+    },
+    {
+      "userId": 8,
+      "title": "Handcrafted Rubber Bike",
+      "id": 17
     }
   ],
   "photos": []
